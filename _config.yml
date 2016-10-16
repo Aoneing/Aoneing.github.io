@@ -11,8 +11,8 @@ baseurl: "/Aoneing.github.io"         # for example, '/blog' if your blog hosted
 
 
 # SNS settings
-RSS: true
-weibo_username:     qquasimode
+#RSS: true
+weibo_username:     qqusimodo
 zhihu_username:     qquasimodo
 github_username:    Aoneing
 #twitter_username:   Quasimode
