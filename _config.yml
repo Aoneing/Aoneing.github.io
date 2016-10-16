@@ -1,5 +1,5 @@
 # Site settings
-title: Your Blog
+title: Quasimode Blog
 SEOTitle: Quasimode
 header-img: img/home-bg.jpg
 email: hb_sheng_2011@163.com
@@ -11,12 +11,12 @@ baseurl: "/Aoneing.github.io"         # for example, '/blog' if your blog hosted
 
 
 # SNS settings
-#RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
-#github_username:    huxpro
-#twitter_username:  huxpro
-#facebook_username:  huxpro
+RSS: true
+weibo_username:     Quasimode
+zhihu_username:     Quasimode
+github_username:    Quasimode
+twitter_username:   Quasimode
+facebook_username:  Quasimode
 
 
 
@@ -69,7 +69,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-cs.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -82,8 +82,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "Quasimode",
+        href: "https://aoneing.github.io/"
     },{
         title: "Foo",
         href: "#"
