@@ -1,0 +1,52 @@
+---
+layout:     post
+title:      "Welcome to Quasimode Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2015-10-22 20:00:00
+author:     "Quasimodo"
+header-img: "img/post-bg-2016.jpg"
+tags:
+    - 生活
+---
+
+> “Live as if you were to die tomorrow. ”
+
+
+## 前言
+
+写博客这事，在大学的时候就有尝试过一段时间，记得最开始是在网易博客上写，后来网易博客没落又迁移到CSDN，可惜没有坚持下来。个人觉得写技术博客还是很锻炼人的，需要思路明确，条理清晰，用简明扼要的语言把事情说清楚，这个还是需要功夫的。
+
+
+---
+
+## 正文
+
+github 的账号很早就有了，用[GitHub Pages](https://pages.github.com/) +[Jekyll](http://jekyllrb.com/) 的方式搭建博客也是很早就直到这个的，只是一直没很强的冲动来实践一把。最近是由于自己在网上查找资料的时候，无意间进到了别人的博客，逛了下，发现这哥们是用这种方式搭的博客，界面简介好看，顿时就又有了冲动。
+
+
+另外一个是由于，作为一个搞技术的理工男，对于未知技术总是充满好奇，总想试试新的东西，所以就有了我现在的这个[blog](http://www.quasimodo.top/) .
+
+当然博客主要的目的是写作，为了快速搭建起这个东西，也是在已有的技术上直接使用了别人的模板，本着开源的精神，对于无偿使用别人技术的时候，还是需要注明的，感谢 [huxblog-boilerplate](https://github.com/Huxpro/huxblog-boilerplate)，让我只花了几个小时就搞定了。
+
+另外网上的教程的也是一大波，如果不想看枯燥的官网教程，不妨参照一下下面几篇文章：
+
+- http://www.pchou.info/ssgithubPage/2013-01-03-build-github-blog-page-01.html
+- http://www.cnblogs.com/strick/p/5448570.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+- http://blog.fens.me/jekyll-bootstarp-github/
+- http://www.jianshu.com/p/609e1197754c
+
+由于本人不是搞前端的，所以对于布局界面这块还是有点力不从心的，只能借鉴下别人的东西了，嘻嘻！
+
+当然，写这篇文章的时候，也仅仅是把这个博客搭起来了，还搞了个域名：
+[quasimodo.to](http://www.quasimodo.top/),这个后续肯定是需要优化的，边学习边进步嘛！
+
+最后说说**Markdown**玩意儿，最开始是因为有道笔记支持这种格式的笔记后就立马试了试，感觉很不粗。网上赞誉的帖子也不少，本地的各种编辑器也很多，我为了可以在任何地方写作，所以就找到了[作业部落](https://www.zybuluo.com/mdeditor)这么一个在线的编辑器，大家不妨可以试试。
+
+
+---
+
+## 后记
+
+写博客可以不局限于技术领域，谈谈人生，谈谈理想，谈谈生活其实也很好，重点是要坚持。相信一件事情你如果能够坚持好多好多年，想必一定会产生神奇的结果，加油！
+
+![keep going](http://p.nanrenwo.net/uploads/allimg/160808/8448-160PQ40450.gif)
