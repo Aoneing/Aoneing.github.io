@@ -30,10 +30,10 @@ github 的账号很早就有了，用[GitHub Pages](https://pages.github.com/) +
 
 另外网上的教程的也是一大波，如果不想看枯燥的官网教程，不妨参照一下下面几篇文章：
 
-- http://www.pchou.info/ssgithubPage/2013-01-03-build-github-blog-page-01.html
-- http://www.cnblogs.com/strick/p/5448570.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-- http://blog.fens.me/jekyll-bootstarp-github/
-- http://www.jianshu.com/p/609e1197754c
+- [http://www.pchou.info/ssgithubPage/2013-01-03-build-github-blog-page-01.html](http://www.pchou.info/ssgithubPage/2013-01-03-build-github-blog-page-01.html)
+- [http://www.cnblogs.com/strick/p/5448570.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io](http://www.cnblogs.com/strick/p/5448570.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [http://blog.fens.me/jekyll-bootstarp-github/](http://blog.fens.me/jekyll-bootstarp-github/)
+- [http://www.jianshu.com/p/609e1197754c](http://www.jianshu.com/p/609e1197754c)
 
 由于本人不是搞前端的，所以对于布局界面这块还是有点力不从心的，只能借鉴下别人的东西了，嘻嘻！
 
