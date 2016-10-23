@@ -2,9 +2,9 @@
 layout:     post
 title:      "Welcome to Quasimode Blog"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-10-22 20:00:00
+date:       2016-10-22 20:00:00
 author:     "Quasimodo"
-header-img: "img/post-bg-2016.jpg"
+header-img: "img/post-bg-2015.jpg"
 tags:
     - 生活
 ---
